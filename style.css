@@ -1,0 +1,73 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Styling Headings */
+h1, h2, h3 {
+    color: #333;
+    font-family: 'Georgia', serif;
+}
+
+/* Navigation Bar */
+nav {
+    background-color: #333;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    font-size: 18px;
+}
+
+nav a:hover {
+    color: #ff6600;
+}
+
+/* Paragraph Styling */
+p {
+    font-size: 18px;
+    color: #666;
+    margin: 10px 20px;
+}
+
+/* Image Styling */
+img {
+    width: 300px;
+    height: auto;
+    border: 5px solid #333;
+    border-radius: 10px;
+    margin: 20px 0;
+}
+
+/* List Styling */
+ol, ul {
+    text-align: left;
+    display: inline-block;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+}
+
+/* Section Styling */
+#Web\ Development {
+    background-color: #e0e0e0;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+/* Footer Styling */
+footer {
+    background-color: #222;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
